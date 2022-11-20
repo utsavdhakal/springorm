@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aacecafb-5923-4902-a58c-7765fb0399a2" name="Changes" comment="configured datasource">
+    <list default="true" id="aacecafb-5923-4902-a58c-7765fb0399a2" name="Changes" comment="configured session factory">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springorm/product/dao/impl/ProductDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springorm/product/dao/impl/ProductDaoImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668935236944</updated>
-      <workItem from="1668935239309" duration="2471000" />
+      <workItem from="1668935239309" duration="2789000" />
     </task>
     <task id="LOCAL-00001" summary="created product entity and product dao">
       <created>1668937121120</created>
@@ -95,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668937170102</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="configured session factory">
+      <created>1668937731442</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668937731442</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created product entity and product dao" />
     <MESSAGE value="configured datasource" />
-    <option name="LAST_COMMIT_MESSAGE" value="configured datasource" />
+    <MESSAGE value="configured session factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="configured session factory" />
   </component>
 </project>
